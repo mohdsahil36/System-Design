@@ -1,6 +1,6 @@
 # LLD vs HLD
 
-> **HLD** defines *what* the system looks like — architecture, components, and data flow.  
+> **HLD** defines *what* the system looks like — architecture, components, and data flow
 > **LLD** defines *how* the code is written — structure, patterns, and implementation details.
 
 ---

@@ -1,0 +1,16 @@
+# Local IDE / editor config
+.cursor/
+.vscode/
+
+# Notes sync loop (local tooling)
+scripts/
+Makefile
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor swap files
+*.swp
+*.swo
+*~
